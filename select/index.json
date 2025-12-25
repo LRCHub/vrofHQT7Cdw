@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "replica",
+  "base_artist": "Ilaria Graziano",
+  "createdAt": "2025-12-25T07:31:46.691908Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Trout Heart Replica",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/01_Trout_Heart_Replica_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Trout Heart Replica",
+      "artist": "Amanda Palmer & The Grand Theft Orchestra",
+      "has_synced": true,
+      "path": "select/02_Trout_Heart_Replica_Amanda_Palmer_&_The_Grand_Theft_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Replica",
+      "artist": "The xx",
+      "has_synced": true,
+      "path": "select/03_Replica_The_xx.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rah! Rah! Replica",
+      "artist": "Bikini Kill",
+      "has_synced": true,
+      "path": "select/04_Rah!_Rah!_Replica_Bikini_Kill.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Replica",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/05_Replica_Beck.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Replica",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/06_Replica_Epica.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Replica",
+      "artist": "Fear Factory",
+      "has_synced": true,
+      "path": "select/07_Replica_Fear_Factory.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Replica - Live",
+      "artist": "Fear Factory",
+      "has_synced": false,
+      "path": "select/08_Replica_-_Live_Fear_Factory.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Replica",
+      "artist": "Sonata Arctica",
+      "has_synced": true,
+      "path": "select/09_Replica_Sonata_Arctica.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Replica",
+      "artist": "Sonata Arctica",
+      "has_synced": true,
+      "path": "select/10_Replica_Sonata_Arctica.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Replica",
+      "artist": "Sonata Arctica",
+      "has_synced": true,
+      "path": "select/11_Replica_Sonata_Arctica.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Replica - 2006 Remake",
+      "artist": "Sonata Arctica",
+      "has_synced": true,
+      "path": "select/12_Replica_-_2006_Remake_Sonata_Arctica.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Replica (2006 remake)",
+      "artist": "Sonata Arctica",
+      "has_synced": true,
+      "path": "select/13_Replica_(2006_remake)_Sonata_Arctica.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Replica (Live)",
+      "artist": "Sonata Arctica",
+      "has_synced": false,
+      "path": "select/14_Replica_(Live)_Sonata_Arctica.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Replica (Fear Factory Cover)",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/15_Replica_(Fear_Factory_Cover)_Epica.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Replica",
+      "artist": "Sonata Arctica",
+      "has_synced": true,
+      "path": "select/16_Replica_Sonata_Arctica.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Replica - Live At Sonata Arctica Open Air",
+      "artist": "Sonata Arctica",
+      "has_synced": true,
+      "path": "select/17_Replica_-_Live_At_Sonata_Arctica_Open_Air_Sonata_Arctica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "replica",
+      "artist": "Ilaria Graziano",
+      "has_synced": false,
+      "path": "select/pl_01_replica_Ilaria_Graziano.txt"
+    }
+  ]
+}
